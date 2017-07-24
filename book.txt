@@ -5,3 +5,5 @@ I want to wirte another one.
 <<<<<<< HEAD
 I want to do this.
 
+Chapter 2
+Done.
